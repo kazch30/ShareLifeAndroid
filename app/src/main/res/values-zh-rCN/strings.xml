@@ -1,0 +1,23 @@
+<resources>
+    <string name="menu_item1">共享</string>
+    <string name="menu_item2">评论</string>
+    <string name="menu_item3">删除</string>
+    <string name="menu_filelist1">拍照</string>
+    <string name="menu_filelist2">打开照片</string>
+    <string name="reply_hint">答覆</string>
+    <string name="comment_hint">新评论</string>
+    <string name="update">的更新</string>
+    <string name="addusers">添加用户</string>
+    <string name="connecting_msg">连接到Google Play服务。</string>
+    <string name="delete_file_msg">你确定要删除这个文件吗？</string>
+    <string name="delete_file_title">删除文件</string>
+    <string name="delete_comment_msg">你确定要删除此评论吗？</string>
+    <string name="delete_comment_title">删除评论</string>
+    <string name="delete_reply_msg">您确定要删除此回复吗？</string>
+    <string name="delete_reply_title">删除回复</string>
+    <string name="commentlist">注释</string>
+    <string name="ownedByOther">由其他人拥有</string>
+    <string name="permissionlist">用户列表</string>
+    <string name="gmail_hint">Gmail地址</string>
+    <string name="msg_hint">信息</string>
+</resources>

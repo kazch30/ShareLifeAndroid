@@ -1,0 +1,23 @@
+<resources>
+    <string name="menu_item1">gedeelde</string>
+    <string name="menu_item2">commentaar</string>
+    <string name="menu_item3">verwijder</string>
+    <string name="menu_filelist1">Maak een foto</string>
+    <string name="menu_filelist2">Open de foto</string>
+    <string name="reply_hint">antwoord</string>
+    <string name="comment_hint">nieuwe opmerking</string>
+    <string name="update">Update</string>
+    <string name="addusers">gebruikers toevoegen</string>
+    <string name="connecting_msg">Verbinding maken met Google Play-services.</string>
+    <string name="delete_file_msg">Weet je zeker dat je dit bestand wilt verwijderen?</string>
+    <string name="delete_file_title">verwijderen bestand</string>
+    <string name="delete_comment_msg">Weet je zeker dat je deze reactie wilt verwijderen?</string>
+    <string name="delete_comment_title">verwijder commentaar</string>
+    <string name="delete_reply_msg">Weet je zeker dat je dit antwoord wilt verwijderen?</string>
+    <string name="delete_reply_title">antwoord verwijderen</string>
+    <string name="commentlist">Comments</string>
+    <string name="ownedByOther">eigendom van een ander</string>
+    <string name="permissionlist">lijst gebruikers</string>
+    <string name="gmail_hint">Gmail-adres</string>
+    <string name="msg_hint">Bericht</string>
+</resources>

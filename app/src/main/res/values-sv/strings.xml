@@ -1,0 +1,23 @@
+<resources>
+    <string name="menu_item1">delad</string>
+    <string name="menu_item2">kommentar</string>
+    <string name="menu_item3">radera</string>
+    <string name="menu_filelist1">Ta ett foto</string>
+    <string name="menu_filelist2">öppen foto</string>
+    <string name="reply_hint">svar</string>
+    <string name="comment_hint">ny kommentar</string>
+    <string name="update">Uppdatering</string>
+    <string name="addusers">Lägg till användare</string>
+    <string name="connecting_msg">Anslut till Google Play Services.</string>
+    <string name="delete_file_msg">Är du säker på att du vill radera den här filen?</string>
+    <string name="delete_file_title">radera fil</string>
+    <string name="delete_comment_msg">Är du säker på att du vill radera den här kommentaren?</string>
+    <string name="delete_comment_title">bort kommentar</string>
+    <string name="delete_reply_msg">Är du säker på att du vill radera detta svar?</string>
+    <string name="delete_reply_title">bort svar</string>
+    <string name="commentlist">kommentarer</string>
+    <string name="ownedByOther">ägs av andra</string>
+    <string name="permissionlist">användare listan</string>
+    <string name="gmail_hint">Gmail-adress</string>
+    <string name="msg_hint">Meddelande</string>
+</resources>

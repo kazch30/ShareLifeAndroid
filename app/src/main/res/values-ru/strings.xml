@@ -1,0 +1,23 @@
+<resources>
+    <string name="menu_item1">коллективный</string>
+    <string name="menu_item2">замечание</string>
+    <string name="menu_item3">Удалить</string>
+    <string name="menu_filelist1">Сделать фотографию</string>
+    <string name="menu_filelist2">Открыть фото</string>
+    <string name="reply_hint">отвечать</string>
+    <string name="comment_hint">новый комментарий</string>
+    <string name="update">Обновить</string>
+    <string name="addusers">Добавить пользователей</string>
+    <string name="connecting_msg">Подключение к сервисам Google Play.</string>
+    <string name="delete_file_msg">Вы уверены, что хотите удалить этот файл?</string>
+    <string name="delete_file_title">удалить файл</string>
+    <string name="delete_comment_msg">Вы уверенны, что хотите удалить этот комментарий?</string>
+    <string name="delete_comment_title">удалить комментарий</string>
+    <string name="delete_reply_msg">Вы уверены, что хотите удалить этот ответ?</string>
+    <string name="delete_reply_title">Удалить ответ</string>
+    <string name="commentlist">Комментарии</string>
+    <string name="ownedByOther">принадлежащих другим</string>
+    <string name="permissionlist">Список пользователей</string>
+    <string name="gmail_hint">Адрес Gmail</string>
+    <string name="msg_hint">Сообщение</string>
+</resources>

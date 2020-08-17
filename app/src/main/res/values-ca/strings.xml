@@ -1,0 +1,23 @@
+<resources>
+    <string name="menu_item1">compartit</string>
+    <string name="menu_item2">comentar</string>
+    <string name="menu_item3">esborrar</string>
+    <string name="menu_filelist1">Fer foto</string>
+    <string name="menu_filelist2">Obre foto</string>
+    <string name="reply_hint">respon</string>
+    <string name="comment_hint">nou comentari</string>
+    <string name="update">Actualització</string>
+    <string name="addusers">Afegeix usuaris</string>
+    <string name="connecting_msg">S\'està connectant amb els serveis de Google Play.</string>
+    <string name="delete_file_msg">Esteu segur que voleu eliminar aquest fitxer?</string>
+    <string name="delete_file_title">eliminar l\'arxiu</string>
+    <string name="delete_comment_msg">Estàs segur que vols esborrar aquest comentari?</string>
+    <string name="delete_comment_title">suprimeix el comentari</string>
+    <string name="delete_reply_msg">Esteu segur que voleu suprimir aquesta resposta?</string>
+    <string name="delete_reply_title">suprimeix la resposta</string>
+    <string name="commentlist">Comentaris</string>
+    <string name="ownedByOther">propietat d\'altres</string>
+    <string name="permissionlist">Llista d\'usuaris</string>
+    <string name="gmail_hint">Adreça de Gmail</string>
+    <string name="msg_hint">Missatge</string>
+</resources>

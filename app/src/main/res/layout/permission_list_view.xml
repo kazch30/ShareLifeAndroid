@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id">
+    </com.google.android.gms.ads.AdView>
+    <AutoCompleteTextView
+        android:id="@+id/gmail_edit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableEnd="@android:drawable/ic_menu_send"
+        android:drawableRight="@android:drawable/ic_menu_send"
+        android:inputType="textEmailAddress"
+        android:hint="@string/gmail_hint"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:background="@drawable/border"/>
+    <EditText
+        android:id="@+id/gmail_msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textAutoComplete"
+        android:hint="@string/msg_hint"
+        android:background="@drawable/border" />
+    <TextView
+        android:text="@string/permissionlist"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <ListView android:id="@+id/permissionlist"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/border"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_gravity="bottom" />
+</LinearLayout>

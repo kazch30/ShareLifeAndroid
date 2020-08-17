@@ -1,0 +1,23 @@
+<resources>
+    <string name="menu_item1">partajate</string>
+    <string name="menu_item2">Comentariu</string>
+    <string name="menu_item3">șterge</string>
+    <string name="menu_filelist1">Fa o poza</string>
+    <string name="menu_filelist2">Deschideți fotografia</string>
+    <string name="reply_hint">răspunde</string>
+    <string name="comment_hint">comentariu nou</string>
+    <string name="update">Actualizați</string>
+    <string name="addusers">Adăugați utilizatori</string>
+    <string name="connecting_msg">Conectarea la Servicii Google Play.</string>
+    <string name="delete_file_msg">Sigur doriți să ștergeți acest fișier?</string>
+    <string name="delete_file_title">sterge fisierul</string>
+    <string name="delete_comment_msg">Sigur doriți să ștergeți acest comentariu?</string>
+    <string name="delete_comment_title">șterge comentariul</string>
+    <string name="delete_reply_msg">Sigur doriți să ștergeți acest răspuns?</string>
+    <string name="delete_reply_title">ștergeți răspunsul</string>
+    <string name="commentlist">Comentarii</string>
+    <string name="ownedByOther">deținute de alții</string>
+    <string name="permissionlist">Lista de utilizatori</string>
+    <string name="gmail_hint">Adresa Gmail</string>
+    <string name="msg_hint">Mesaj</string>
+</resources>

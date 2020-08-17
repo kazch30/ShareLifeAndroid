@@ -1,0 +1,23 @@
+<resources>
+    <string name="menu_item1">共有</string>
+    <string name="menu_item2">コメント</string>
+    <string name="menu_item3">削除</string>
+    <string name="menu_filelist1">写真を撮る</string>
+    <string name="menu_filelist2">写真を開く</string>
+    <string name="reply_hint">返信</string>
+    <string name="comment_hint">新しいコメント</string>
+    <string name="update">更新</string>
+    <string name="addusers">ユーザーを追加する</string>
+    <string name="connecting_msg">Google Playサービスに接続しています。</string>
+    <string name="delete_file_msg">このファイルを削除してもよろしいですか？</string>
+    <string name="delete_file_title">ファイルを削除</string>
+    <string name="delete_comment_msg">このコメントを削除してもよろしいですか？</string>
+    <string name="delete_comment_title">コメントを削除</string>
+    <string name="delete_reply_msg">この返信を削除してもよろしいですか？</string>
+    <string name="delete_reply_title">返信を削除</string>
+    <string name="commentlist">コメント</string>
+    <string name="ownedByOther">他人が所有</string>
+    <string name="permissionlist">ユーザーリスト</string>
+    <string name="gmail_hint">Gmailアドレス</string>
+    <string name="msg_hint">メッセージ</string>
+</resources>

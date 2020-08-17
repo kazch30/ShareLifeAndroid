@@ -1,0 +1,23 @@
+<resources>
+    <string name="menu_item1">sdílené</string>
+    <string name="menu_item2">komentář</string>
+    <string name="menu_item3">vymazat</string>
+    <string name="menu_filelist1">Vyfotit</string>
+    <string name="menu_filelist2">Otevřete fotografii</string>
+    <string name="reply_hint">odpovědět</string>
+    <string name="comment_hint">nový komentář</string>
+    <string name="update">Aktualizovat</string>
+    <string name="addusers">Přidat uživatele</string>
+    <string name="connecting_msg">Připojení ke službám Google Play.</string>
+    <string name="delete_file_msg">Opravdu chcete tento soubor smazat?</string>
+    <string name="delete_file_title">smazat soubor</string>
+    <string name="delete_comment_msg">Opravdu chcete tento komentář smazat?</string>
+    <string name="delete_comment_title">smazat komentář</string>
+    <string name="delete_reply_msg">Opravdu chcete tuto odpověď smazat?</string>
+    <string name="delete_reply_title">smazat odpověď</string>
+    <string name="commentlist">Komentáře</string>
+    <string name="ownedByOther">vlastněné jinými</string>
+    <string name="permissionlist">Seznam uživatelů</string>
+    <string name="gmail_hint">Adresu Gmailu</string>
+    <string name="msg_hint">Zpráva</string>
+</resources>

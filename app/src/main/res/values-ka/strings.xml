@@ -1,0 +1,23 @@
+<resources>
+    <string name="menu_item1">გაზიარებული</string>
+    <string name="menu_item2">კომენტარი</string>
+    <string name="menu_item3">წაშლა</string>
+    <string name="menu_filelist1">ფოტოს გადაღება</string>
+    <string name="menu_filelist2">ღია ფოტო</string>
+    <string name="reply_hint">პასუხი</string>
+    <string name="comment_hint">ახალი კომენტარი</string>
+    <string name="update">განახლება</string>
+    <string name="addusers">მომხმარებლების დამატება</string>
+    <string name="connecting_msg">Google Play სერვისებთან დაკავშირება.</string>
+    <string name="delete_file_msg">დარწმუნებული ხართ, რომ გსურთ ამ ფაილის წაშლა?</string>
+    <string name="delete_file_title">ფაილის წაშლა</string>
+    <string name="delete_comment_msg">დარწმუნებული ხართ, რომ გსურთ ამ კომენტარის წაშლა?</string>
+    <string name="delete_comment_title">კომენტარის წაშლა</string>
+    <string name="delete_reply_msg">დარწმუნებული ხართ, რომ გსურთ წაშალოთ ეს პასუხი?</string>
+    <string name="delete_reply_title">პასუხის წაშლა</string>
+    <string name="commentlist">კომენტარები</string>
+    <string name="ownedByOther">კუთვნილი სხვა</string>
+    <string name="permissionlist">მომხმარებელთა სია</string>
+    <string name="gmail_hint">Gmail მისამართი</string>
+    <string name="msg_hint">შეტყობინება</string>
+</resources>

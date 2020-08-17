@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/popupTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/reply_hint"
+        android:gravity="center"
+        android:drawableStart="@android:drawable/ic_menu_close_clear_cancel"
+        android:drawableLeft="@android:drawable/ic_menu_close_clear_cancel"
+        android:background="@drawable/border_title" />
+
+    <EditText
+        android:id="@+id/reply_edit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableEnd="@android:drawable/ic_menu_send"
+        android:drawableRight="@android:drawable/ic_menu_send"
+        android:inputType="textAutoComplete"
+        android:hint="@string/reply_hint"
+        android:background="@drawable/border"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="40dp"
+        android:layout_gravity="bottom" />
+
+</LinearLayout>

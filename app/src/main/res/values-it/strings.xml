@@ -1,0 +1,23 @@
+<resources>
+    <string name="menu_item1">condivisa</string>
+    <string name="menu_item2">commento</string>
+    <string name="menu_item3">Elimina</string>
+    <string name="menu_filelist1">Scatta foto</string>
+    <string name="menu_filelist2">aperto foto</string>
+    <string name="reply_hint">risposta</string>
+    <string name="comment_hint">nuovo comment</string>
+    <string name="update">Aggiornamento</string>
+    <string name="addusers">Aggiungi utenti</string>
+    <string name="connecting_msg">Connessione a Google Play Services.</string>
+    <string name="delete_file_msg">Sei sicuro di voler cancellare questo file?</string>
+    <string name="delete_file_title">cancella il file</string>
+    <string name="delete_comment_msg">Sei sicuro di voler eliminare questo commento?</string>
+    <string name="delete_comment_title">cancella il commento</string>
+    <string name="delete_reply_msg">Sei sicuro di voler eliminare questa risposta?</string>
+    <string name="delete_reply_title">cancella risposta</string>
+    <string name="commentlist">Commenti</string>
+    <string name="ownedByOther">di proprietà di altri</string>
+    <string name="permissionlist">Elenco degli utenti</string>
+    <string name="gmail_hint">Indirizzo Gmail</string>
+    <string name="msg_hint">Messaggio</string>
+</resources>

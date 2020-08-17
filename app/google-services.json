@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "246569556954",
+    "firebase_url": "https://sharelife-e8947.firebaseio.com",
+    "project_id": "sharelife-e8947",
+    "storage_bucket": "sharelife-e8947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246569556954:android:c5bc078a70ce90dc",
+        "android_client_info": {
+          "package_name": "com.hydroety.sharelife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246569556954-par2h5g1pgpq3811heqvt6h4e1ngts9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hydroety.sharelife",
+            "certificate_hash": "0e3d594834d8feb7759872051c7070bf5954f3a3"
+          }
+        },
+        {
+          "client_id": "246569556954-7i0s4abg4m93tdlrhr74008q25eni30v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgh6FnzGNskCEXPKwvHloYtBMcI5ZOApw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246569556954-7i0s4abg4m93tdlrhr74008q25eni30v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
